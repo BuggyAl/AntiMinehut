@@ -1,0 +1,7 @@
+name: AntiMinehut
+version: '${project.version}'
+main: me.buggyal.antiminehut.AntiMinehut
+api-version: 1.19
+softdepend: [ MinehutCosmetics ]
+author: BuggyAl
+description: Removes that pesky MinehutCosmetics plugin!
