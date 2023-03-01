@@ -8,7 +8,7 @@ import java.io.File;
 
 public final class AntiMinehut extends JavaPlugin {
 
-    String mhPlugin = "MinehutCosmetics";
+    String mhPlugin = "MinehutPlugin";
     ConsoleCommandSender console = getServer().getConsoleSender();
 
     @Override
